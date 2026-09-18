@@ -156,7 +156,7 @@ Responsible for:
 * Screens
 * UI components
 * User interactions
-* BLoC / Cubit
+* Cubit
 * Presentation states
 
 The presentation layer should not communicate directly with APIs or databases.
